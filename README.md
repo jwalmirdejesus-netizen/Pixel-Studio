@@ -1,6 +1,6 @@
 # Pixel-Studio
 
-![Pixel-Studio](Screenshot_20260524-121504.jpg)
+![Pixel-Studio](Screenshot_20260909-115732.jpg)
 
 https://github.com/jwalmirdejesus-netizen/Pixel-Studio/blob/main/Screenshot_20260909-115732.jpg
 
