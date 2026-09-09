@@ -3,7 +3,7 @@
 ![Pixel-Studio](Screenshot_20260909-115732.jpg)
 
 
-> Projeto em desenvolvimento ativo — versão estável jogável no navegador.
+> Projeto em desenvolvimento ativo — versão estável funcional no navegador.
 
  Um editor de pixel art que roda direto no navegador, leve, com galeria e filtros e com um sistema de camadas, histórico ilimitado, galeria...
 
