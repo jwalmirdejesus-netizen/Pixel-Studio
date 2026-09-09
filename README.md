@@ -25,3 +25,5 @@ Como usar
 
 ![Pixel-Studio](Screenshot_20260909-123108.jpg)
 
+![Pixel-Studio]Screenshot_20260909-123249.jpg
+
