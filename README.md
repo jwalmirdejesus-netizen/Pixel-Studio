@@ -37,4 +37,4 @@ Como usar
 
 ![Pixel-Studio](Screenshot_20260909-123314.jpg)
 
-![Pixel-Studio]
+![Pixel-Studio](Screenshot_20260909-123325.jpg)
