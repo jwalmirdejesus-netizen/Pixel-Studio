@@ -5,9 +5,7 @@
 
 > Projeto em desenvolvimento ativo — versão estável jogável no navegador.
 
-O Pixel-Studio é um editor de pixel art que roda direto no navegador, leve, com galeria e filtros.
-
-Pixel Studio completo com sistema de camadas, histórico ilimitado, galeria...
+ Um editor de pixel art que roda direto no navegador, leve, com galeria e filtros e com um sistema de camadas, histórico ilimitado, galeria...
 
 ### Status
 O que já funciona:
